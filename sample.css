@@ -1,0 +1,363 @@
+@media (min-width: 1441px) {
+    .header {
+      height: 142px;
+      
+  }
+  .headerlogo {
+    width: 22rem;
+    height: 8rem;
+    margin-top: -2rem;
+    margin-left: 6rem;
+  }
+  .header nav ul a {
+    font-size: 3rem;
+  }
+  .header nav ul {
+    margin-top: -6rem;
+    margin-left: 76rem;
+    gap: 3rem;
+  }
+  .hero {
+    height: 77vh;
+  }
+  .hero h4 {
+    font-size: 6rem;
+  }
+  .hero h2 {
+    font-size: 9rem;
+  }
+  .hero h1 {
+    font-size: 10rem;
+  }
+  .hero p {
+    font-size: 3rem;
+  }
+  .hero button {
+    font-size: 31px;
+    background-repeat: no-repeat;
+  } 
+  .features {
+    margin: 5rem 50px 50px 50px;
+  }
+  .feature {
+    width: 21rem;
+    height: 32rem;
+    border: 3px solid #d2ead6;
+    
+  }
+  .feature button {
+    margin: 3rem 0px 0px 5rem;
+    font-size: 2rem;
+  }
+  .featureimg {
+    width: 22rem;
+    height: 22rem;
+  }
+  .mainfeature {
+    font-size: 7rem;
+  }
+  .parafeature {
+    font-size: 3rem;
+  }
+  .product {
+    width: 31rem;
+    height: 37rem;
+    border: 5px solid #dff0e1;
+  }
+  .productimg {
+    width: 460px;
+    height: 350px;
+  }
+  .productbrand {
+    font-size: 29px;
+  }
+  .productname {
+    font-size: 33px;
+  
+  }
+  .star {
+    font-size: 2rem;
+  }
+  .productcost {
+    font-size: 2rem;
+  }
+  .cart {
+    width: 71px;
+    height: 71px;
+    margin: -65px 0px 0px 25rem;
+    font-size: 2rem;
+  }
+  .dealsbannerall {
+    margin: 5rem 0rem 4rem 0rem;
+  }
+  .dealsbanner1 {
+    width: 75rem;
+    height: 48rem;
+    margin-left: -9rem;
+  }
+  .dealsbanner2 {
+    width: 75rem;
+    height: 48rem;
+    margin-left: -9rem;
+  
+  }
+  .dealstext {
+    margin: -40rem 0px 0px -33px;
+    line-height: 8rem;
+  }
+  .dealstext1 {
+    font-size: 4rem;
+  }
+  .dealstext2 {
+    font-size: 7rem;
+  }
+  .dealstext3 {
+    font-size: 3rem;
+  }
+  .dealsbutton {
+    padding: 20px 40px 20px 40px;
+    border: 3px solid white;
+    font-size: 2rem;
+  }
+  .dealsbannermini1 {
+    width: 50rem;
+    height: 34rem;
+  
+  }
+  .dealsbannermini {
+    margin: 8rem 50px 15rem 1rem;
+  }
+  .dealsminitext1 {
+    font-size: 2.5rem;
+  }
+  .dealsminitext3 {
+    font-size: 3rem;
+    line-height: 2;
+  }
+  .signupbanner {
+    height: 22rem;
+  }
+  .signuptext {
+    font-size: 4rem;
+    padding: 69px 0px 10px 70px;
+  }
+  .signuptext4 {
+    margin: 0px 0px 0px 90rem;
+    padding: 25px 26rem 25px 15px;
+    font-size: 2rem;
+  }
+  .signuptext5 {
+    padding: 26px 66px 26px 20px;
+    margin-left: -4px;
+    font-size: 2rem;
+  }
+  .signuptext2 {
+    font-size: 2rem;
+  }
+  .signuptext3 {
+    font-size: 2rem;
+  }
+  .footer {
+    font-size: 2rem;
+  }
+  .footercopyright {
+    font-size: 2rem;
+  }
+  
+  /* ----------------- shop ------------------- */
+  .shopheading {
+    font-size: 4rem;
+  }
+  .shopcaption {
+    font-size: 2rem;
+  }
+  .shopbanner {
+    width: 100%;
+    height: 19rem;
+  }
+  .pagebutton1, .pagebutton2, .pagebuttonnext {
+    width: 100px;
+    height: 100px;
+    font-size: 3rem;
+    
+  
+  }
+  
+  /* ------------------- Blog ----------------------- */
+  
+  .blogheading {
+    font-size: 95px;
+  }
+  .blogbanner {
+    height: 27rem;
+  }
+  .blogcaption {
+    font-size: 3rem;
+  }
+  .ads, .ads1, .ads2, .ads3,.ads4 {
+    width: 890px;
+    height: 500px;
+  }
+  .adstext {
+    margin: 5px 0px 0px 58rem;
+    font-size: 3rem;
+  }
+  .adstext1 {
+    margin: 90px 110px 0px 58rem;
+    font-size: 2rem;
+  }
+  .adsbutton {
+    margin: 24rem 110px 0px 59rem;
+    font-size: 2.2rem;
+  }
+  .adsdate {
+    font-size: 114px;
+    margin: -99px 0px 0px -10px;
+  }
+  
+  
+  /* ----------------- About -------------------- */
+  
+  .aboutbanner {
+    height: 28rem;
+  }
+  .aboutimages {
+    width: 75rem;
+    height: 55rem;
+  }
+  .aboutimgtext {
+    margin: 1rem 0px 0px 77rem;
+  }
+  .aboutimgtext1 {
+    margin: 7rem 35px 0px 77rem;
+    font-size: 2.5rem;
+  }
+  .aboutimgtext2 {
+    margin: 28rem 35px 0px 77rem;
+    font-size: 2.2rem;
+  }
+  .aboutscroll {
+    margin: 39rem 35px 0px 77rem;
+    padding: 20px 0px 20px 0px;
+    font-size: 2.5rem;
+  }
+  
+  /* --------------------- Contact---------------------- */
+  
+  .addressdetails {
+    font-size: 3rem;
+  }
+  .detail2 {
+    font-size: 3rem;
+  }
+  .map1 {
+    width: 78rem;
+    height: 63rem;
+  }
+  .container {
+    border: 2px solid #c5c3c3;
+    width: 154rem;
+    height: 64rem;
+    margin: 0px 20px 140px 30px;
+  }
+  .employeedetails {
+    margin: 67px 0px 0px 0px;
+    font-size: 2.5rem;
+  }
+  .employeedetails {
+    display: table-column;
+    margin: 67px 0px 0px 0px;
+    font-size: 2.5rem;
+  }
+  .inputdetails1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  .inputdetails2 {
+    font-size: 3rem;
+  }
+  .inputdetails3, .inputdetails4, .inputdetails5 {
+    padding: 25px 1015px 25px 10px;
+    font-size: 2rem;
+    border: 2px solid #c5c3c3;
+  }
+  .inputdetails6 {
+    padding: 10px 78rem 74px 10px;
+  }
+  .inputdetails7 {
+    padding: 25px 63px;
+    font-size: 2rem;
+  }
+  .employeedetails img {
+    width: 150px;
+    height: 150px;
+  }
+  table, thead, tbody {
+    font-size: 3rem;
+    height: 14rem;
+  }
+  .number {
+    padding: 15px;
+    width: 26%;
+  }
+  .totalcart {
+    width: 65%;
+    margin: 8rem 0px 74px 746px;
+    padding: 115px 57px 177px 29px;
+  }
+  .totalcart caption {
+    margin: -77px 0px 0px -2px;
+  }
+  .checkout {
+    padding: 30px 61px;
+    margin: -195px 0px 0px 776px;
+    font-size: 2rem;
+  }
+  .couponblock p {
+    font-size: 3rem;
+  }
+  .couponinput input {
+    padding: 20px 270px 20px 10px;
+    font-size: 3rem;
+    border: 1px solid;
+  }
+  .couponinput button {
+    padding: 25px 75px 22px 75px;
+    font-size: 3rem;
+  }
+  
+  
+  /* ---------------Product------------------- */
+  
+  .cartname {
+    font-size: 3rem;
+  }
+  .cartshrit {
+    font-size: 3rem;
+  }
+  .cartproductpara {
+    font-size: 3rem;
+  }
+  .cartcost {
+    font-size: 3rem;
+  }
+  .cartselect {
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 2rem;
+    margin: 1rem;
+  }
+  .cartcount {
+    padding: 15px;
+    width: 40px;
+    font-size: 2rem;
+  }
+  .cartbutton {
+    padding: 23px 30px;
+    font-size: 1.5rem;
+  }
+  .cartproducthead {
+    font-size: 3rem;
+  }
+  
+   }
